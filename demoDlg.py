@@ -1,8 +1,8 @@
 """создает панель с кнопками, которые вызывают диалоги"""
 
 from tkinter import *
-from dialogTable import demos
-from quitter import Quitter
+from GUI.gui.dialogTable import demos
+from GUI.gui.quitter import Quitter
 
 
 class Demo(Frame):

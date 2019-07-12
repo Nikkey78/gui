@@ -1,4 +1,4 @@
-from gui3 import HelloButton
+from GUI.gui.gui3 import HelloButton
 
 class MyButton(HelloButton):
     def callback(self):
